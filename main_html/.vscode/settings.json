@@ -16,6 +16,10 @@
   //autoprefix設定
   //這項套件會自動幫你加入前綴（Prefix）
   //例如：-webkit- -moz- ...等
-  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"]
+  "liveSassCompile.settings.autoprefix": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "liveServer.settings.port": 5501
 
 }
